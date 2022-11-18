@@ -1,0 +1,51 @@
+.container {
+    padding-left: 129px;
+    padding-right: 129px;
+}
+
+.logo {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.group1 {
+    background-color: #EFEFEF;
+    width: 100%;
+    h4 {
+        text-align: center;
+        margin: 0px;
+        padding-top: 38px;
+        padding-bottom: 18px;
+    }
+    p {
+        text-align: center;
+        margin: 0px;
+        padding-left: 269px;
+        padding-right: 269px;
+        padding-bottom: 38px;
+    }
+}
+
+.items {
+    padding-top: 40px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: space-around;
+    .p1 {
+        text-align: justify;
+        margin: 0;
+    }
+    .itemlogocss {
+        float: left;
+        width: 128px;
+        height: 128px;
+    }
+}
+
+.groupitem2 {
+    padding: 0 50px;
+}
+
+.itemname {
+    text-align: left;
+}

@@ -3,6 +3,12 @@ import Sidebar from './components/Sidebar/Sidebar';
 import Content from './components/Content/Content';
 import Footer from './components/Footer/Footer';
 
+import Radio from '@mui/material/Radio';
+import RadioGroup from '@mui/material/RadioGroup';
+import FormControlLabel from '@mui/material/FormControlLabel';
+import FormControl from '@mui/material/FormControl';
+import FormLabel from '@mui/material/FormLabel';
+
 function App() {
   return (
     <div className="App">
